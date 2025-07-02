@@ -36,7 +36,7 @@ A modern, clean, and responsive web-based search interface built using HTML, CSS
 
 ## 📸 Screenshot
 
-![screenshot-placeholder](https://via.placeholder.com/800x400?text=Search+UI+Preview)
+![screenshot](https://via.placeholder.com/800x400?text=Search+UI+Preview)
 
 ## 🔧 Setup Instructions
 
